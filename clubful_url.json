@@ -1,4 +1,4 @@
 {
-  "appServer":"https://clubfulapiserver-guanho.c9users.io/",
+  "apiServer":"https://clubfulapiserver-guanho.c9users.io/",
   "courtUpload":"https://decubeimageserver-guanho.c9users.io/upload/clubful/resources/image/court/"
 }
