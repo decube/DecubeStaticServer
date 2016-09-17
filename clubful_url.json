@@ -1,4 +1,9 @@
 {
   "apiServer":"https://clubfulapiserver-guanho.c9users.io/",
+  "viewServer":"https://decubeviewserver-guanho.c9users.io/clubful/",
+  "info":"info.html",
+  "notice":"notice.html",
+  "guide":"guide.html",
+  "inquiry":"inquiry.html",
   "courtUpload":"https://decubeimageserver-guanho.c9users.io/upload/clubful/resources/image/court/"
 }
