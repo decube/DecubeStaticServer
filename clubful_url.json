@@ -1,9 +1,26 @@
 {
   "apiServer":"https://clubfulapiserver-guanho.c9users.io/",
+  "api_version_check":"version/check_success.json",
+  "api_version_app":"version/app_success.json",
+  "api_court_create":"court/create_success.json",
+  "api_court_detail":"court/detail_success.json",
+  "api_court_interest":"court/interest_success.json",
+  "api_court_listSearch":"court/listSearch_success.json",
+  "api_court_replyInsert":"court/replyInsert_success.json",
+  "api_location_geocode":"location/geocode_success.json",
+  "api_location_user":"location/user_success.json",
+  "api_user_join":"version/join_success.json",
+  "api_user_login":"version/login_success.json",
+  "api_user_logout":"version/logout_success.json",
+  "api_user_mypage":"version/mypage_success.json",
+  "api_user_set":"version/set_success.json",
+  "api_user_update":"version/update_success.json",
+
   "viewServer":"https://decubeviewserver-guanho.c9users.io/clubful/",
-  "info":"info.html",
-  "notice":"notice.html",
-  "guide":"guide.html",
-  "inquiry":"inquiry.html",
+  "view_info":"info.html",
+  "view_notice":"notice.html",
+  "view_guide":"guide.html",
+  "view_inquiry":"inquiry.html",
+
   "courtUpload":"https://decubeimageserver-guanho.c9users.io/upload/clubful/resources/image/court/"
 }
