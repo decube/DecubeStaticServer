@@ -15,6 +15,7 @@
   "api_user_mypage":"user/mypage_success.json",
   "api_user_set":"user/set_success.json",
   "api_user_update":"user/update_success.json",
+  "api_user_info":"user/info_success.json",
 
   "viewServer":"https://decubeviewserver-guanho.c9users.io/clubful/",
   "view_info":"info.html",
